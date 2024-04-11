@@ -6,6 +6,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 This a dashboard with data of customers and invoice data.
 
-To run this clone the repo https://github.com/Suitec9/newDashboard.
+To run this appilcation, clone the repo https://github.com/Suitec9/newDashboard.
 Then you install the dependencies with npm install or yarn install, to 
 see if the app functions properly run npm run dev.
