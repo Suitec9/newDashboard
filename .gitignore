@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+
 # testing
 /coverage
 
@@ -30,6 +31,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+#ide extension
+/.chat
+/.vscode
 
 # typescript
 *.tsbuildinfo

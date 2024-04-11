@@ -1,5 +1,0 @@
-{
-    "CodeGPT.apiKey": "CodeGPT Plus Beta",
-    "devchat.defaultModel": "gpt-3.5-turbo",
-    "DevChat.PythonForCommands": "/home/suitecnine/.chat/mamba/envs/devchat-commands/bin/python"
-}
